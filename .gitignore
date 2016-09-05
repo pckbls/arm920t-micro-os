@@ -1,0 +1,5 @@
+**/*.o
+kernel
+kernel.img
+kernel.bin.gz
+namen.txt
